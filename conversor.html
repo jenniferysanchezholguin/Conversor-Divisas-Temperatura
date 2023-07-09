@@ -1,0 +1,59 @@
+<!DOCTYPE html> 
+<html lang="es">
+  <head>   
+      <meta charset="UTF-8"> <!--DICCIONARIO DE IDIOMAS europeo -->
+     <title>Conversor de Divisas</title> 
+     <script src="Conversor.js"></script>
+  </head>
+  
+  <body>
+    
+        <center>
+         <h1> Conversor de Divisas</h1>
+          Cantidad:<input type="number" id="cantidad" min="0" max="100000000000" value="0"
+          onchange="convertir()"><br>
+          Presione Enter para su resultado <br><br>
+          El Valor Ingresado es:<span id= "valor">0</span><br><br> 
+          Convertir De:
+          <select id="de" onchange="convertir()">
+              <option value="1">Pesos</option>
+              <option value="2">Dólar</option>
+              <option value="3"> Euros</option>
+              <option value="4">Libras Esterlinas</option>
+              <option value="5">Yen Japonés</option>
+              <option value="6">Won Sul-Coreano</option>
+           </select><br><br>
+          Convertir A:
+          <select  id="a" onchange="convertir()">
+              <option value="1">Pesos</option>
+              <option value="2">Dolar</option>
+              <option value="3"> Euros</option>
+              <option value="4">Libras Esterlinas</option>
+              <option value="5">Yen Japonés</option>
+              <option value="6">Won Sul-Coreano</option>
+          </select>
+          <h2 id="resultado">Resultado: $ 0.00</h2>
+          <br>
+          <br>
+          <br>
+        </center>
+   </body>
+</html>
+
+
+<html>
+    <center>
+       <h2>Conversor de temperaturas</h2>
+       <p>Escriba aqui el valor de la temperatura en celcius:</p>
+      <body>
+          <p>
+             <label>Celsius</label>
+             <input id="inputCelsius" type="number" placeholder="Celsius">
+             <button onclick="CelsiusKelvin()">Calcular</button>
+          </p>
+          <p>Farenheit: <span id="Farenheit"></span></p>
+          <p>Kelvin: <span id="Kelvin"></span></p>
+          <p>Rankine: <span id="Rankine"></span></p>
+</center>
+      </body>
+</html>
