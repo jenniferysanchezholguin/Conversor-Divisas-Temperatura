@@ -21,6 +21,7 @@ Estado del proyecto:
 
 - `Funcionalidad 1`: descripción de la funcionalidad 1
   ![Conversor de moneda](ht<tps://github.com/jenniferysanchezholguin/Conversor-Divisas-Temperatura/assets/130307464/5adeaa3f-4058-44f8-8010-d33f0daac50c)
+  
 - `Funcionalidad 2`: descripción de la funcionalidad 2
   ![conversor temperatura](https://github.com/jenniferysanchezholguin/Conversor-Divisas-Temperatura/assets/130307464/3a285c90-5b45-427e-8ffc-ac2b6ec087ef)
 
@@ -30,8 +31,7 @@ Estado del proyecto:
  
     ## Autores
 
-| [<img src="https://github.com/jenniferysanchezholguin/Conversor-Divisas-Temperatura/assets/130307464/cd97ed37-63f2-4b62-9e0d-348774d2a659)
-" width=115><br><sub>Jennifer Yurianny Sanchez Holguin</sub>](https://github.com/jenniferysanchezholguin) | | :---: | :---: | :---: |
+| [<img src="https://github.com/jenniferysanchezholguin/Conversor-Divisas-Temperatura/assets/130307464/cd97ed37-63f2-4b62-9e0d-348774d2a659"><br><sub>Jennifer Yurianny Sanchez Holguin</sub>](https://github.com/jenniferysanchezholguin) | | :---: | :---: | :---: |
 
 
 
