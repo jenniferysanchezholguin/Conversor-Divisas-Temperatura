@@ -30,7 +30,8 @@ Estado del proyecto:
  
     ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Jennifer Yurianny Sanchez Holguin</sub>](https://github.com/jenniferysanchezholguin) | | :---: | :---: | :---: |
+| [<img src="https://github.com/jenniferysanchezholguin/Conversor-Divisas-Temperatura/assets/130307464/cd97ed37-63f2-4b62-9e0d-348774d2a659)
+" width=115><br><sub>Jennifer Yurianny Sanchez Holguin</sub>](https://github.com/jenniferysanchezholguin) | | :---: | :---: | :---: |
 
 
 
