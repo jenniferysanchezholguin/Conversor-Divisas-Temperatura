@@ -29,6 +29,8 @@ Estado del proyecto:
   Tecnologías utilizadas:
 
   - Visual Studio Code
+  - HTML
+  - JavaScript
  
     ## Autores
 
