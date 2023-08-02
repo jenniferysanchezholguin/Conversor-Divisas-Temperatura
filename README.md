@@ -2,7 +2,7 @@
 
 Insignias
  <p align="left">
-   <img src="https://img.shields.io/badge/JAVA-green">
+   <img src="https://img.shields.io/badge/JavaScrip-green">
   <img src="https://img.shields.io/badge/HTML-BLUE">
   <img src="https://img.shields.io/badge/CSS-RED">
    <img src="https://img.shields.io/badge/github/stars/jenniferysanchezholguin?style=social)">
